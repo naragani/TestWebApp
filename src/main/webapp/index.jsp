@@ -4,6 +4,6 @@ String version=resource.getString("version"); %>
 <%=version%>
 <html>
 <body>
-<h2>Hello World!Updated Made after Deployment !!!</h2>
+<h2>Hello World! Update Made after Deployment --- From DOCKER !!!</h2>
 </body>
 </html>
